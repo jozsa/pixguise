@@ -10,7 +10,7 @@ In order to share pictures of events with others, we often have to sacrifice som
 - Django Rest Framework + AuthToken (3.6+)
 - pipenv 
 
-## Tech/framework used :floppy_disk:
+## Tech/frameworks used :floppy_disk:
 - [Python](https://docs.python.org/3/)
 - [Django](https://docs.djangoproject.com/en/2.2/)
 - [Django REST Framework](https://www.django-rest-framework.org/)
