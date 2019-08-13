@@ -46,8 +46,8 @@ pipenv install --dev
 python3 manage.py makemigrations
 python3 manage.py migrate
 ```
-6) Create .env file - look at `.env.example` file for inspiration - and insert the necessary variables. 
-7) Run server using django
+7) Create .env file - look at `.env.example` file for inspiration - and insert the necessary variables. 
+8) Run server using Django
 ```
 python3 manage.py runserver
 ```
@@ -55,7 +55,7 @@ The default server will be run on `127.0.0.1:8000`/`localhost:8000`. To use anot
 ```
 python3 manage.py runserver 0.0.0.0:8000
 ```
-7) Using your preferred browser, go to the IP you are running your server on.
+9) Using your preferred browser, go to the IP you are running your server on.
 
 ## Contribute :computer:
 We welcome any contributions to our project - fork our repository and submit a Pull Request if you feel you've made any improvements.
